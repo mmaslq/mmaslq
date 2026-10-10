@@ -1,8 +1,10 @@
 # Hi, I'm Michał 👋
 
-I'm a software developer interested in **computer vision, machine learning, and software development**.
+## 🏗️ About Me
 
-I enjoy solving technical problems through code, exploring machine learning techniques, and building applications that combine practical functionality with thoughtful engineering.
+I'm a third-year Computer Science and Intelligent Systems student at AGH University of Kraków, interested in computer vision, machine learning, and software development.
+
+I enjoy tackling technical challenges, exploring machine learning approaches, and building applications that combine theoretical knowledge with practical problem-solving.
 
 ## 🛠️ Technologies & Interests
 
