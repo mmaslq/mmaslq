@@ -12,4 +12,4 @@ I enjoy solving technical problems through code, exploring machine learning tech
 
 ---
 
-I'm always looking to learn, experiment with new approaches, and build software that turns ideas into practical solutions.
+I'm always looking to learn new technologies, explore different approaches to problem-solving, and improve my software development skills.
